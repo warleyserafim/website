@@ -822,7 +822,7 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  background: linear-gradient(rgba(2, 2, 2, 0.3), rgba(0, 0, 0, 0.69)), url("../img/fundocta.jpeg") center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.3), rgba(0, 0, 0, 0.69)), url("../img/fundocta.jpg") center center;
   background-size: cover;
   padding: 60px 0;
 }
